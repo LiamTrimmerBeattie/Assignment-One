@@ -1,0 +1,19 @@
+/* I can add in different fonts later on here using
+@import url('')   */
+
+body {
+  background-color: #D7D7D7;
+  font-family: sans-serif;
+}
+
+.heading {
+  height: 90px;
+  background-color: #2d2f3b;
+  color: white;
+  border-bottom; 6px solid #4b4e61
+
+.navigation {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
